@@ -1,13 +1,18 @@
 # MyBookStore
 
-Hi Everyone,
+# A basic introduction of React, Redux, Redux-Thunk
 
-This is a simple one page application.
-Demonstating Redux-Thunk, redux implemantation.
+## Dependencies
+
+- Install all the project dependencies with `npm install`
+- Start the development server with `npm start`
+- You will need [`react-router-dom`](https://www.npmjs.com/package/react-router-dom)
+- You will need [`prop-types`](https://www.npmjs.com/package/prop-types)
+
 
 Please review and let me know your thoughts.
 Suggestion are welcome.
 
 
 Project Preview
-<https://raw.githubusercontent.com/AkJoshi19/MyBookStore/master/MyReact.png>
+[Preview] (https://raw.githubusercontent.com/AkJoshi19/MyBookStore/master/MyReact.png)
