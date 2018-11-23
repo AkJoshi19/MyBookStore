@@ -15,4 +15,5 @@ Suggestion are welcome.
 
 
 Project Preview
-[Preview] (https://raw.githubusercontent.com/AkJoshi19/MyBookStore/master/MyReact.png)
+<p align="center"><a href="https://raw.githubusercontent.com/AkJoshi19/MyBookStore/master/MyReact.png" width="150"/></a></p> 
+
