@@ -14,6 +14,8 @@ Please review and let me know your thoughts.
 Suggestion are welcome.
 
 
-Project Preview
-<p align="center"><a href="https://raw.githubusercontent.com/AkJoshi19/MyBookStore/master/MyReact.png" width="150"/></a></p> 
+## Screenshots
+
+[<img src="https://raw.githubusercontent.com/AkJoshi19/MyBookStore/master/MyReact.png" width=160>]
+
 
