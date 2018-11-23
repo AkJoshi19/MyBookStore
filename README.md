@@ -16,6 +16,6 @@ Suggestion are welcome.
 
 ## Screenshots
 
-[<img src="https://raw.githubusercontent.com/AkJoshi19/MyBookStore/master/MyReact.png" width=160>]
+[<img src="https://raw.githubusercontent.com/AkJoshi19/MyBookStore/master/MyReact.png" width=400>]
 
 
